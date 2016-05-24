@@ -23,7 +23,7 @@
     "@ftbl/form": "^1.4.8",
     "@ftbl/gulp": "^1.6.3",
     "@ftbl/icons": "^1.2.6",
-    "@ftbl/resource": "^1.0.4",
+    "@ftbl/resource": "^1.0.5",
     "@ftbl/support": "^1.0.1",
     "@ftbl/validation": "^1.0.0",
     "color": "^0.11.1",
