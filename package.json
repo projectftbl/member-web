@@ -21,7 +21,6 @@
   "dependencies": {
     "@ftbl/component": "^1.1.1",
     "@ftbl/form": "^1.4.8",
-    "@ftbl/gulp": "^1.6.3",
     "@ftbl/icons": "^1.2.6",
     "@ftbl/resource": "^1.0.5",
     "@ftbl/support": "^1.0.1",
@@ -43,7 +42,7 @@
     "redux-saga": "^0.9.5"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.5.0",
+    "@ftbl/gulp": "^1.6.4",
     "babel": "^6.3.26",
     "babel-cli": "^6.4.5",
     "babel-core": "^6.4.5",
