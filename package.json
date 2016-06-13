@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/member-web",
-  "version": "1.2.10",
+  "version": "1.2.11",
   "description": "React member components",
   "main": "dist/index",
   "scripts": {
