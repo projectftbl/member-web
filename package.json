@@ -1,6 +1,6 @@
 {
-  "name": "@ftbl/member-web",
-  "version": "1.2.40",
+  "name": "@recipher/member-web",
+  "version": "1.3.4",
   "description": "React member components",
   "main": "dist/index",
   "scripts": {
@@ -16,15 +16,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/member-web.git"
+    "url": "git@github.com:recipher/member-web.git"
   },
   "dependencies": {
-    "@ftbl/component": "^1.1.1",
-    "@ftbl/form": "^1.4.8",
-    "@ftbl/icons": "^1.2.6",
-    "@ftbl/resource": "^1.0.5",
-    "@ftbl/support": "^1.0.1",
-    "@ftbl/validation": "^1.0.0",
+    "@recipher/component": "^1.1.1",
+    "@recipher/form": "^1.4.8",
+    "@recipher/icons": "^1.2.6",
+    "@recipher/resource": "^1.0.5",
+    "@recipher/support": "^1.0.1",
+    "@recipher/validation": "^1.0.0",
     "color": "^0.11.1",
     "frieze": "^1.2.1",
     "lodash": "^3.10.1",
@@ -42,7 +42,7 @@
     "redux-saga": "^0.9.5"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.6.4",
+    "@recipher/gulp": "^1.6.4",
     "babel": "^6.3.26",
     "babel-cli": "^6.4.5",
     "babel-core": "^6.4.5",
